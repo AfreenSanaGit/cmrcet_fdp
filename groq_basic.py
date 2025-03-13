@@ -17,7 +17,7 @@ def ask_question(api_key):
     print("\nResponse:", response.choices[0].message.content)
 
 def main():
-    api_key = "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"
+    api_key = "your key"
     ask_question(api_key)
 
 if __name__ == "__main__":
