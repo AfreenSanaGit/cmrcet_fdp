@@ -1,7 +1,7 @@
 pip install llama-index-llms-groq
 pip install llama-index
 from llama_index.llms.groq import Groq as g
-GROQ_API_KEY="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"
+GROQ_API_KEY="your key"
 !pip install --upgrade llama-index-llms-groq
 
 ## First Code
